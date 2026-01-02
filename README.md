@@ -20,3 +20,4 @@ Pharmacy Pro Ultimate ek advanced management software hai jo Python aur Modern G
 1. Repository clone karein:
    ```bash
    git clone [https://github.com/mujahidjadoon/PharmacyPro-Manager.git](https://github.com/mujahidjadoon/PharmacyPro-Manager.git)
+<img width="2731" height="1359" alt="333" src="https://github.com/user-attachments/assets/2a443f8a-0d8d-48f4-ae3f-b8d5d3a68abb" />

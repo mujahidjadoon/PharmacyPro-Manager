@@ -28,17 +28,11 @@ To run this project locally on your system, follow these steps:
 
 Clone the Repository:
 
-Bash
-
 git clone https://github.com/mujahidjadoon/PharmacyPro-Manager.git
 Install Required Dependencies: Make sure you have Python installed, then run the following command in your terminal:
 
-Bash
-
 pip install customtkinter reportlab matplotlib
 Run the Application: Navigate to the project folder and execute:
-
-Bash
 
 python main.py
 <img width="2731" height="1359" alt="333" src="https://github.com/user-attachments/assets/2a443f8a-0d8d-48f4-ae3f-b8d5d3a68abb" />

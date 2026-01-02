@@ -1,4 +1,6 @@
 Pharmacy Pro Ultimate - Intelligence System 💊📊
+
+
 Pharmacy Pro Ultimate is an advanced management software built with Python and Modern GUI (CustomTkinter). This software is designed to assist pharmacy owners in managing their daily business operations and visualizing financial analytics.
 
 ✨ Key Features
